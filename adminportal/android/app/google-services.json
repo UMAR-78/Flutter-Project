@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718492132529",
+    "project_id": "saucy-eats",
+    "storage_bucket": "saucy-eats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718492132529:android:1c3e98f31aed7df213ee90",
+        "android_client_info": {
+          "package_name": "com.example.adminportal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx0YaLIvZrP8kP8jp0iAVyOrEw3EM3aa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
